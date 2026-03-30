@@ -25,19 +25,19 @@ Ecology is actively monitored and preserved
 Traditional systems are treated as measurable development tools, not just cultural artifacts.
 
 ⚙️ Key Components
-1. 🏫 Gurukul Education System
+🏫 Gurukul Education System
 Structured inter-generational learning
-Practical + cultural knowledge integration
+Practical and cultural knowledge integration
 Measurable learning outcomes
-2. 💱 Karma Economy
+💱 Karma Economy
 Internal exchange of value and services
 Contribution-based participation
 Reduced dependency on external markets
-3. 🌿 Bio-Indicator Dashboard
+🌿 Bio-Indicator Dashboard
 Real-time ecological monitoring
 Tracks soil, water, air, and biodiversity
 Enables data-driven environmental decisions
-4. 📚 Living Knowledge Archive
+📚 Living Knowledge Archive
 Digital preservation of traditional knowledge
 Accessible across generations
 Ensures continuity of wisdom systems
@@ -89,9 +89,7 @@ Policy refinement
 Research collaboration
 Pilot partnerships
 Technological enhancements
-📄 License
 
-Specify your preferred license (e.g., MIT, Apache 2.0, or custom policy framework license).
 
 ✍️ Author
 
